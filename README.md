@@ -1,7 +1,7 @@
 # 🌦 Weather Forecast & Air Quality Dashboard (Power BI)
 
 ## 📖 Overview
-This project is an **interactive, real-time Weather Forecast and Air Quality Dashboard** built in **Power BI**, integrating live API data from [OpenWeatherMap](https://openweathermap.org/api).  
+This project is an **interactive, real-time Weather Forecast and Air Quality Dashboard** built in **Power BI**, integrating live API data from [FreeWeatherAPI](https://www.weatherapi.com/)).  
 It visualizes key weather conditions and environmental metrics in a clear, accessible format.
 
 ## 📊 Key Features
@@ -20,7 +20,8 @@ It visualizes key weather conditions and environmental metrics in a clear, acces
 To transform raw meteorological and environmental data into a **clean, interactive dashboard** that enables informed decision-making.
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="887" height="494" alt="dashboard" src="https://github.com/user-attachments/assets/f5e791ce-7bff-4f39-9a00-f1b6b8e024fe" />
+
 
 ## 📌 Data Source
 - [OpenWeatherMap API](https://openweathermap.org/api)  
