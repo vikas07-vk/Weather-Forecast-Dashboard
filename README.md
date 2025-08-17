@@ -24,8 +24,7 @@ To transform raw meteorological and environmental data into a **clean, interacti
 
 
 ## 📌 Data Source
-- [OpenWeatherMap API](https://openweathermap.org/api)  
-- [Air Quality API](https://lnkd.in/esd7g_4w)  
+- [FREE Weather API](https://www.weatherapi.com/)  
 
 ## 🚀 How to Use
 1. Clone this repo  
